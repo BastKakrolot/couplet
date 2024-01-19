@@ -1,6 +1,6 @@
 {
   "name": "couplet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "网页春联",
   "main": "index.js",
   "scripts": {
